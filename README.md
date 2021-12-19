@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rupesh Kolatwar a  Cloud Automation Engineer
+- 👋 Hi, I’m Rupesh Kolatwar a Cloud Automation Engineer
 - 👀 I’m interested in Automation 
-- 🌱 I’m currently learning Python, Ansible, Shell Script, Powershell,AWS, CI/CD, Docker, Jenkins,Kubernetes, Terraform..
-- 💞️ I’m looking to collaborate on development and operations 
+- 🌱 I’m currently learning Python, Ansible, Shell Script, Powershell,AWS, CI/CD, Docker, Jenkins,Kubernetes, Terraform.
+- 💞️ I’m looking to collaborate on DevOps and Automation
 - 📫 How to reach me "devopsaws2021@gmail.com"
 
 <!---
